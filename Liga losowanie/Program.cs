@@ -134,7 +134,7 @@ class Program
             if (dostepneLinie.Count > 0)
             {
                 int indeks = random.Next(0, dostepneLinie.Count);
-                int indeks2 = random.Next(0, dostepnePostacie.Count);
+                int indeks2;
                 Console.ForegroundColor = ConsoleColor.Magenta;
                 Console.WriteLine("gracz " + (i+1) + "  "+ dostepneLinie[indeks]);
                 int zm1 = 0;
@@ -143,6 +143,7 @@ class Program
                 while (zm1 < 4)
                 {
                     Console.ForegroundColor = ConsoleColor.Blue;
+                    indeks2 = random.Next(0, dostepnePostacie.Count);
                     Console.WriteLine((zm1+1)+ " " + dostepnePostacie[indeks2]);
                     Console.ForegroundColor = ConsoleColor.Green;
                     dostepnePostacie.RemoveAt(indeks2);
