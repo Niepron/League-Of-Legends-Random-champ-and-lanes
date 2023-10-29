@@ -1,0 +1,17 @@
+C:\Users\Nipor\Desktop\Aplikacje C#\Liga losowanie\Liga losowanie\bin\Debug\net6.0\Liga losowanie.exe
+C:\Users\Nipor\Desktop\Aplikacje C#\Liga losowanie\Liga losowanie\bin\Debug\net6.0\Liga losowanie.deps.json
+C:\Users\Nipor\Desktop\Aplikacje C#\Liga losowanie\Liga losowanie\bin\Debug\net6.0\Liga losowanie.runtimeconfig.json
+C:\Users\Nipor\Desktop\Aplikacje C#\Liga losowanie\Liga losowanie\bin\Debug\net6.0\Liga losowanie.dll
+C:\Users\Nipor\Desktop\Aplikacje C#\Liga losowanie\Liga losowanie\bin\Debug\net6.0\Liga losowanie.pdb
+C:\Users\Nipor\Desktop\Aplikacje C#\Liga losowanie\Liga losowanie\obj\Debug\net6.0\Liga losowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nipor\Desktop\Aplikacje C#\Liga losowanie\Liga losowanie\obj\Debug\net6.0\Liga losowanie.AssemblyInfoInputs.cache
+C:\Users\Nipor\Desktop\Aplikacje C#\Liga losowanie\Liga losowanie\obj\Debug\net6.0\Liga losowanie.AssemblyInfo.cs
+C:\Users\Nipor\Desktop\Aplikacje C#\Liga losowanie\Liga losowanie\obj\Debug\net6.0\Liga losowanie.csproj.CoreCompileInputs.cache
+C:\Users\Nipor\Desktop\Aplikacje C#\Liga losowanie\Liga losowanie\obj\Debug\net6.0\Liga losowanie.dll
+C:\Users\Nipor\Desktop\Aplikacje C#\Liga losowanie\Liga losowanie\obj\Debug\net6.0\refint\Liga losowanie.dll
+C:\Users\Nipor\Desktop\Aplikacje C#\Liga losowanie\Liga losowanie\obj\Debug\net6.0\Liga losowanie.pdb
+C:\Users\Nipor\Desktop\Aplikacje C#\Liga losowanie\Liga losowanie\obj\Debug\net6.0\Liga losowanie.genruntimeconfig.cache
+C:\Users\Nipor\Desktop\Aplikacje C#\Liga losowanie\Liga losowanie\obj\Debug\net6.0\ref\Liga losowanie.dll
+C:\Users\Nipor\Desktop\Aplikacje C#\Liga losowanie\Liga losowanie\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\Nipor\Desktop\Aplikacje C#\Liga losowanie\Liga losowanie\obj\Debug\net6.0\Liga losowanie.csproj.AssemblyReference.cache
+C:\Users\Nipor\Desktop\Aplikacje C#\Liga losowanie\Liga losowanie\obj\Debug\net6.0\Liga losowanie.csproj.CopyComplete

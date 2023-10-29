@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "waeRTLap0fdfVDcFzbkMFJeHbub3U3+yLGxOGMpe9gJUy1XUKU5WvuSTQYr7DVYMmIZUjsxtIYU3eSzC9ohBHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nipor\\Desktop\\Aplikacje C#\\Liga losowanie\\Liga losowanie\\Liga losowanie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nipor\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512"
+  ],
+  "logs": []
+}
